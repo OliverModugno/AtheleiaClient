@@ -1,0 +1,3081 @@
+== application started at Nov 13 2018 13:31:37
+OTClient 0.6.6 rev 0 (df422c0) built on Feb 17 2017 for arch x86
+Startup done :]
+ERROR: lua function callback failed: LUA ERROR:
+/client_options/options.lua:231: attempt to call method 'setDrawManaBar' (a nil value)
+stack traceback:
+	[C]: in function 'setDrawManaBar'
+	/client_options/options.lua:231: in function 'setOption'
+	/client_options/options.lua:135: in function 'setup'
+	/client_options/options.lua:118: in function </client_options/options.lua:118>
+ERROR: Failed to read dat '/things/772/Tibia.dat': unable to open file '/things/772/Tibia.dat': El sistema no puede encontrar la ruta especificada.'
+ERROR: Failed to load sprites from '/things/772/Tibia.spr': unable to open file '/things/772/Tibia.spr': El sistema no puede encontrar la ruta especificada.
+ERROR: Failed to read dat '/things/772/Tibia.dat': unable to open file '/things/772/Tibia.dat': El sistema no puede encontrar la ruta especificada.'
+ERROR: Failed to load sprites from '/things/772/Tibia.spr': unable to open file '/things/772/Tibia.spr': El sistema no puede encontrar la ruta especificada.
+Exiting application..
+== application started at Nov 13 2018 13:33:10
+OTClient 0.6.6 rev 0 (df422c0) built on Feb 17 2017 for arch x86
+Startup done :]
+ERROR: lua function callback failed: LUA ERROR:
+/client_options/options.lua:231: attempt to call method 'setDrawManaBar' (a nil value)
+stack traceback:
+	[C]: in function 'setDrawManaBar'
+	/client_options/options.lua:231: in function 'setOption'
+	/client_options/options.lua:135: in function 'setup'
+	/client_options/options.lua:118: in function </client_options/options.lua:118>
+ERROR: Failed to read dat '/things/772/Tibia.dat': unable to open file '/things/772/Tibia.dat': El sistema no puede encontrar la ruta especificada.'
+ERROR: Failed to load sprites from '/things/772/Tibia.spr': unable to open file '/things/772/Tibia.spr': El sistema no puede encontrar la ruta especificada.
+Exiting application..
+== application started at Nov 14 2018 08:32:51
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: es
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Enable dash walking"
+Unable to translate: "Will boost your walk on high speed characters"
+Unable to translate: "Display creature names"
+Unable to translate: "Display creature health bars"
+Unable to translate: "Display player mana bar"
+Unable to translate: "Display text messages"
+Unable to translate: "Turn delay: %sms"
+Unable to translate: "Turn delay: %dms"
+Unable to translate: "Hotkey delay: %dms"
+Unable to translate: "Hotkey delay: %dms"
+Unable to translate: "Enable lights"
+Unable to translate: "Enable audio"
+Unable to translate: "Enable music sound"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Audio"
+Unable to translate: "Audio"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Server list"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Unable to translate: "Server List"
+Unable to translate: "Add new server"
+Unable to translate: "Select"
+Unable to translate: "New Server"
+Unable to translate: "Host"
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Unable to translate: "Show Top Menu"
+Loaded module 'game_interface'
+Unable to translate: "Reset All"
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Unable to translate: "Critical Hit Chance"
+Unable to translate: "Critical Hit Damage"
+Unable to translate: "Life Leech Chance"
+Unable to translate: "Life Leech Amount"
+Unable to translate: "Life Leech Chance"
+Unable to translate: "Life Leech Amount"
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Unable to translate: "Name"
+Unable to translate: "Price"
+Unable to translate: "Your Money"
+Unable to translate: "Weight"
+Unable to translate: "Your Capacity"
+Unable to translate: "Search"
+Unable to translate: "Sell All"
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Unable to translate: "Name"
+Unable to translate: "Statement"
+Unable to translate: "Reason"
+Unable to translate: "Action"
+Unable to translate: "Comment"
+Loaded module 'game_ruleviolation'
+Unable to translate: "Balance"
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Offer Type"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Find"
+Unable to translate: "Buyer Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Name"
+Unable to translate: "Filters"
+Unable to translate: "Formula"
+Unable to translate: "Group"
+Unable to translate: "Type"
+Unable to translate: "Cooldown"
+Unable to translate: "Premium"
+Unable to translate: "Any"
+Unable to translate: "Sorcerer"
+Unable to translate: "Druid"
+Unable to translate: "Paladin"
+Unable to translate: "Knight"
+Unable to translate: "Group"
+Unable to translate: "Any"
+Unable to translate: "Premium"
+Unable to translate: "Any"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Unable to translate: "Hotkey delay: %sms"
+Unable to translate: "Turn delay: %sms"
+Unable to translate: "Music volume: %d"
+ERROR: Failed to read dat '/things/772/Tibia.dat': unable to open file '/things/772/Tibia.dat': El sistema no puede encontrar la ruta especificada.'
+ERROR: Failed to load sprites from '/things/772/Tibia.spr': unable to open file '/things/772/Tibia.spr': El sistema no puede encontrar la ruta especificada.
+Exiting application..
+== application started at Nov 14 2018 08:40:15
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: es
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Enable dash walking"
+Unable to translate: "Will boost your walk on high speed characters"
+Unable to translate: "Display creature names"
+Unable to translate: "Display creature health bars"
+Unable to translate: "Display player mana bar"
+Unable to translate: "Display text messages"
+Unable to translate: "Turn delay: %sms"
+Unable to translate: "Turn delay: %dms"
+Unable to translate: "Hotkey delay: %dms"
+Unable to translate: "Hotkey delay: %dms"
+Unable to translate: "Enable lights"
+Unable to translate: "Enable audio"
+Unable to translate: "Enable music sound"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Audio"
+Unable to translate: "Audio"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Server list"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Unable to translate: "Server List"
+Unable to translate: "Add new server"
+Unable to translate: "Select"
+Unable to translate: "New Server"
+Unable to translate: "Host"
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Unable to translate: "Show Top Menu"
+Loaded module 'game_interface'
+Unable to translate: "Reset All"
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Unable to translate: "Critical Hit Chance"
+Unable to translate: "Critical Hit Damage"
+Unable to translate: "Life Leech Chance"
+Unable to translate: "Life Leech Amount"
+Unable to translate: "Life Leech Chance"
+Unable to translate: "Life Leech Amount"
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Unable to translate: "Name"
+Unable to translate: "Price"
+Unable to translate: "Your Money"
+Unable to translate: "Weight"
+Unable to translate: "Your Capacity"
+Unable to translate: "Search"
+Unable to translate: "Sell All"
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Unable to translate: "Name"
+Unable to translate: "Statement"
+Unable to translate: "Reason"
+Unable to translate: "Action"
+Unable to translate: "Comment"
+Loaded module 'game_ruleviolation'
+Unable to translate: "Balance"
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Offer Type"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Find"
+Unable to translate: "Buyer Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Name"
+Unable to translate: "Filters"
+Unable to translate: "Formula"
+Unable to translate: "Group"
+Unable to translate: "Type"
+Unable to translate: "Cooldown"
+Unable to translate: "Premium"
+Unable to translate: "Any"
+Unable to translate: "Sorcerer"
+Unable to translate: "Druid"
+Unable to translate: "Paladin"
+Unable to translate: "Knight"
+Unable to translate: "Group"
+Unable to translate: "Any"
+Unable to translate: "Premium"
+Unable to translate: "Any"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Unable to translate: "Hotkey delay: %sms"
+Unable to translate: "Turn delay: %sms"
+Unable to translate: "Music volume: %d"
+ERROR: Failed to read dat '/things/772/Tibia.dat': unable to open file '/things/772/Tibia.dat': El sistema no puede encontrar la ruta especificada.'
+ERROR: Failed to load sprites from '/things/772/Tibia.spr': unable to open file '/things/772/Tibia.spr': El sistema no puede encontrar la ruta especificada.
+Unable to translate: "Account Status"
+ERROR: Unable to send extended opcode 1, extended opcodes are not enabled
+Unable to translate: "%s of experience left"
+Unable to translate: "Your character health is %d out of %d."
+Unable to translate: "You have %d%% to advance to level %d."
+Unable to translate: "%s of experience left"
+Unable to translate: "Your character mana is %d out of %d."
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Unable to translate: "%s of experience left"
+Exiting application..
+== application started at Nov 14 2018 09:20:04
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: es
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Enable dash walking"
+Unable to translate: "Will boost your walk on high speed characters"
+Unable to translate: "Display creature names"
+Unable to translate: "Display creature health bars"
+Unable to translate: "Display player mana bar"
+Unable to translate: "Display text messages"
+Unable to translate: "Turn delay: %sms"
+Unable to translate: "Turn delay: %dms"
+Unable to translate: "Hotkey delay: %dms"
+Unable to translate: "Hotkey delay: %dms"
+Unable to translate: "Enable lights"
+Unable to translate: "Enable audio"
+Unable to translate: "Enable music sound"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Audio"
+Unable to translate: "Audio"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Server list"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Unable to translate: "Server List"
+Unable to translate: "Add new server"
+Unable to translate: "Select"
+Unable to translate: "New Server"
+Unable to translate: "Host"
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Unable to translate: "Show Top Menu"
+Loaded module 'game_interface'
+Unable to translate: "Reset All"
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Unable to translate: "Critical Hit Chance"
+Unable to translate: "Critical Hit Damage"
+Unable to translate: "Life Leech Chance"
+Unable to translate: "Life Leech Amount"
+Unable to translate: "Life Leech Chance"
+Unable to translate: "Life Leech Amount"
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Unable to translate: "Name"
+Unable to translate: "Price"
+Unable to translate: "Your Money"
+Unable to translate: "Weight"
+Unable to translate: "Your Capacity"
+Unable to translate: "Search"
+Unable to translate: "Sell All"
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Unable to translate: "Name"
+Unable to translate: "Statement"
+Unable to translate: "Reason"
+Unable to translate: "Action"
+Unable to translate: "Comment"
+Loaded module 'game_ruleviolation'
+Unable to translate: "Balance"
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Offer Type"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Find"
+Unable to translate: "Buyer Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Name"
+Unable to translate: "Filters"
+Unable to translate: "Formula"
+Unable to translate: "Group"
+Unable to translate: "Type"
+Unable to translate: "Cooldown"
+Unable to translate: "Premium"
+Unable to translate: "Any"
+Unable to translate: "Sorcerer"
+Unable to translate: "Druid"
+Unable to translate: "Paladin"
+Unable to translate: "Knight"
+Unable to translate: "Group"
+Unable to translate: "Any"
+Unable to translate: "Premium"
+Unable to translate: "Any"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Unable to translate: "Hotkey delay: %sms"
+Unable to translate: "Turn delay: %sms"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Account Status"
+Unable to translate: "%s of experience left"
+Unable to translate: "Your character health is %d out of %d."
+Unable to translate: "You have %d%% to advance to level %d."
+Unable to translate: "%s of experience left"
+Unable to translate: "Your character mana is %d out of %d."
+Unable to translate: "Account Status"
+Exiting application..
+== application started at Nov 14 2018 09:20:39
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: es
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Enable dash walking"
+Unable to translate: "Will boost your walk on high speed characters"
+Unable to translate: "Display creature names"
+Unable to translate: "Display creature health bars"
+Unable to translate: "Display player mana bar"
+Unable to translate: "Display text messages"
+Unable to translate: "Turn delay: %sms"
+Unable to translate: "Turn delay: %dms"
+Unable to translate: "Hotkey delay: %dms"
+Unable to translate: "Hotkey delay: %dms"
+Unable to translate: "Enable lights"
+Unable to translate: "Enable audio"
+Unable to translate: "Enable music sound"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Audio"
+Unable to translate: "Audio"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Server list"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Unable to translate: "Server List"
+Unable to translate: "Add new server"
+Unable to translate: "Select"
+Unable to translate: "New Server"
+Unable to translate: "Host"
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Unable to translate: "Show Top Menu"
+Loaded module 'game_interface'
+Unable to translate: "Reset All"
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Unable to translate: "Critical Hit Chance"
+Unable to translate: "Critical Hit Damage"
+Unable to translate: "Life Leech Chance"
+Unable to translate: "Life Leech Amount"
+Unable to translate: "Life Leech Chance"
+Unable to translate: "Life Leech Amount"
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Unable to translate: "Name"
+Unable to translate: "Price"
+Unable to translate: "Your Money"
+Unable to translate: "Weight"
+Unable to translate: "Your Capacity"
+Unable to translate: "Search"
+Unable to translate: "Sell All"
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Unable to translate: "Name"
+Unable to translate: "Statement"
+Unable to translate: "Reason"
+Unable to translate: "Action"
+Unable to translate: "Comment"
+Loaded module 'game_ruleviolation'
+Unable to translate: "Balance"
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Offer Type"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Find"
+Unable to translate: "Buyer Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Name"
+Unable to translate: "Filters"
+Unable to translate: "Formula"
+Unable to translate: "Group"
+Unable to translate: "Type"
+Unable to translate: "Cooldown"
+Unable to translate: "Premium"
+Unable to translate: "Any"
+Unable to translate: "Sorcerer"
+Unable to translate: "Druid"
+Unable to translate: "Paladin"
+Unable to translate: "Knight"
+Unable to translate: "Group"
+Unable to translate: "Any"
+Unable to translate: "Premium"
+Unable to translate: "Any"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Unable to translate: "Hotkey delay: %sms"
+Unable to translate: "Turn delay: %sms"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Account Status"
+Exiting application..
+== application started at Nov 14 2018 09:20:55
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: es
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Enable dash walking"
+Unable to translate: "Will boost your walk on high speed characters"
+Unable to translate: "Display creature names"
+Unable to translate: "Display creature health bars"
+Unable to translate: "Display player mana bar"
+Unable to translate: "Display text messages"
+Unable to translate: "Turn delay: %sms"
+Unable to translate: "Turn delay: %dms"
+Unable to translate: "Hotkey delay: %dms"
+Unable to translate: "Hotkey delay: %dms"
+Unable to translate: "Enable lights"
+Unable to translate: "Enable audio"
+Unable to translate: "Enable music sound"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Audio"
+Unable to translate: "Audio"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Server list"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Unable to translate: "Server List"
+Unable to translate: "Add new server"
+Unable to translate: "Select"
+Unable to translate: "New Server"
+Unable to translate: "Host"
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Unable to translate: "Show Top Menu"
+Loaded module 'game_interface'
+Unable to translate: "Reset All"
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Unable to translate: "Critical Hit Chance"
+Unable to translate: "Critical Hit Damage"
+Unable to translate: "Life Leech Chance"
+Unable to translate: "Life Leech Amount"
+Unable to translate: "Life Leech Chance"
+Unable to translate: "Life Leech Amount"
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Unable to translate: "Name"
+Unable to translate: "Price"
+Unable to translate: "Your Money"
+Unable to translate: "Weight"
+Unable to translate: "Your Capacity"
+Unable to translate: "Search"
+Unable to translate: "Sell All"
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Unable to translate: "Name"
+Unable to translate: "Statement"
+Unable to translate: "Reason"
+Unable to translate: "Action"
+Unable to translate: "Comment"
+Loaded module 'game_ruleviolation'
+Unable to translate: "Balance"
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Offer Type"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Find"
+Unable to translate: "Buyer Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Name"
+Unable to translate: "Filters"
+Unable to translate: "Formula"
+Unable to translate: "Group"
+Unable to translate: "Type"
+Unable to translate: "Cooldown"
+Unable to translate: "Premium"
+Unable to translate: "Any"
+Unable to translate: "Sorcerer"
+Unable to translate: "Druid"
+Unable to translate: "Paladin"
+Unable to translate: "Knight"
+Unable to translate: "Group"
+Unable to translate: "Any"
+Unable to translate: "Premium"
+Unable to translate: "Any"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Unable to translate: "Hotkey delay: %sms"
+Unable to translate: "Turn delay: %sms"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Account Status"
+Unable to translate: "%s of experience left"
+Unable to translate: "Your character health is %d out of %d."
+Unable to translate: "You have %d%% to advance to level %d."
+Unable to translate: "%s of experience left"
+Unable to translate: "Your character mana is %d out of %d."
+Exiting application..
+== application started at Nov 14 2018 09:21:19
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: es
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Enable dash walking"
+Unable to translate: "Will boost your walk on high speed characters"
+Unable to translate: "Display creature names"
+Unable to translate: "Display creature health bars"
+Unable to translate: "Display player mana bar"
+Unable to translate: "Display text messages"
+Unable to translate: "Turn delay: %sms"
+Unable to translate: "Turn delay: %dms"
+Unable to translate: "Hotkey delay: %dms"
+Unable to translate: "Hotkey delay: %dms"
+Unable to translate: "Enable lights"
+Unable to translate: "Enable audio"
+Unable to translate: "Enable music sound"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Audio"
+Unable to translate: "Audio"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Server list"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Unable to translate: "Server List"
+Unable to translate: "Add new server"
+Unable to translate: "Select"
+Unable to translate: "New Server"
+Unable to translate: "Host"
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Unable to translate: "Show Top Menu"
+Loaded module 'game_interface'
+Unable to translate: "Reset All"
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Unable to translate: "Critical Hit Chance"
+Unable to translate: "Critical Hit Damage"
+Unable to translate: "Life Leech Chance"
+Unable to translate: "Life Leech Amount"
+Unable to translate: "Life Leech Chance"
+Unable to translate: "Life Leech Amount"
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Unable to translate: "Name"
+Unable to translate: "Price"
+Unable to translate: "Your Money"
+Unable to translate: "Weight"
+Unable to translate: "Your Capacity"
+Unable to translate: "Search"
+Unable to translate: "Sell All"
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Unable to translate: "Name"
+Unable to translate: "Statement"
+Unable to translate: "Reason"
+Unable to translate: "Action"
+Unable to translate: "Comment"
+Loaded module 'game_ruleviolation'
+Unable to translate: "Balance"
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Offer Type"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Find"
+Unable to translate: "Buyer Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Name"
+Unable to translate: "Filters"
+Unable to translate: "Formula"
+Unable to translate: "Group"
+Unable to translate: "Type"
+Unable to translate: "Cooldown"
+Unable to translate: "Premium"
+Unable to translate: "Any"
+Unable to translate: "Sorcerer"
+Unable to translate: "Druid"
+Unable to translate: "Paladin"
+Unable to translate: "Knight"
+Unable to translate: "Group"
+Unable to translate: "Any"
+Unable to translate: "Premium"
+Unable to translate: "Any"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Unable to translate: "Hotkey delay: %sms"
+Unable to translate: "Turn delay: %sms"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Account Status"
+Unable to translate: "%s of experience left"
+Unable to translate: "Your character health is %d out of %d."
+Unable to translate: "You have %d%% to advance to level %d."
+Unable to translate: "%s of experience left"
+Unable to translate: "Your character mana is %d out of %d."
+Exiting application..
+== application started at Nov 14 2018 09:21:41
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: es
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Enable dash walking"
+Unable to translate: "Will boost your walk on high speed characters"
+Unable to translate: "Display creature names"
+Unable to translate: "Display creature health bars"
+Unable to translate: "Display player mana bar"
+Unable to translate: "Display text messages"
+Unable to translate: "Turn delay: %sms"
+Unable to translate: "Turn delay: %dms"
+Unable to translate: "Hotkey delay: %dms"
+Unable to translate: "Hotkey delay: %dms"
+Unable to translate: "Enable lights"
+Unable to translate: "Enable audio"
+Unable to translate: "Enable music sound"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Audio"
+Unable to translate: "Audio"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Server list"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Unable to translate: "Server List"
+Unable to translate: "Add new server"
+Unable to translate: "Select"
+Unable to translate: "New Server"
+Unable to translate: "Host"
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Unable to translate: "Show Top Menu"
+Loaded module 'game_interface'
+Unable to translate: "Reset All"
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Unable to translate: "Critical Hit Chance"
+Unable to translate: "Critical Hit Damage"
+Unable to translate: "Life Leech Chance"
+Unable to translate: "Life Leech Amount"
+Unable to translate: "Life Leech Chance"
+Unable to translate: "Life Leech Amount"
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Unable to translate: "Name"
+Unable to translate: "Price"
+Unable to translate: "Your Money"
+Unable to translate: "Weight"
+Unable to translate: "Your Capacity"
+Unable to translate: "Search"
+Unable to translate: "Sell All"
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Unable to translate: "Name"
+Unable to translate: "Statement"
+Unable to translate: "Reason"
+Unable to translate: "Action"
+Unable to translate: "Comment"
+Loaded module 'game_ruleviolation'
+Unable to translate: "Balance"
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Offer Type"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Find"
+Unable to translate: "Buyer Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Name"
+Unable to translate: "Filters"
+Unable to translate: "Formula"
+Unable to translate: "Group"
+Unable to translate: "Type"
+Unable to translate: "Cooldown"
+Unable to translate: "Premium"
+Unable to translate: "Any"
+Unable to translate: "Sorcerer"
+Unable to translate: "Druid"
+Unable to translate: "Paladin"
+Unable to translate: "Knight"
+Unable to translate: "Group"
+Unable to translate: "Any"
+Unable to translate: "Premium"
+Unable to translate: "Any"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Unable to translate: "Hotkey delay: %sms"
+Unable to translate: "Turn delay: %sms"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Account Status"
+Unable to translate: "%s of experience left"
+Unable to translate: "Your character health is %d out of %d."
+Unable to translate: "You have %d%% to advance to level %d."
+Unable to translate: "%s of experience left"
+Unable to translate: "Your character mana is %d out of %d."
+Exiting application..
+== application started at Nov 14 2018 09:22:21
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+FATAL ERROR: Unable to add modules directory to the search path.
+== application started at Nov 14 2018 09:22:57
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+FATAL ERROR: Unable to add data directory to the search path.
+== application started at Nov 14 2018 09:23:35
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+FATAL ERROR: Unable to add data directory to the search path.
+== application started at Nov 14 2018 09:24:35
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: es
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Enable dash walking"
+Unable to translate: "Will boost your walk on high speed characters"
+Unable to translate: "Display creature names"
+Unable to translate: "Display creature health bars"
+Unable to translate: "Display player mana bar"
+Unable to translate: "Display text messages"
+Unable to translate: "Turn delay: %sms"
+Unable to translate: "Turn delay: %dms"
+Unable to translate: "Hotkey delay: %dms"
+Unable to translate: "Hotkey delay: %dms"
+Unable to translate: "Enable lights"
+Unable to translate: "Enable audio"
+Unable to translate: "Enable music sound"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Audio"
+Unable to translate: "Audio"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Server list"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Unable to translate: "Server List"
+Unable to translate: "Add new server"
+Unable to translate: "Select"
+Unable to translate: "New Server"
+Unable to translate: "Host"
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Unable to translate: "Show Top Menu"
+Loaded module 'game_interface'
+Unable to translate: "Reset All"
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Unable to translate: "Critical Hit Chance"
+Unable to translate: "Critical Hit Damage"
+Unable to translate: "Life Leech Chance"
+Unable to translate: "Life Leech Amount"
+Unable to translate: "Life Leech Chance"
+Unable to translate: "Life Leech Amount"
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Unable to translate: "Name"
+Unable to translate: "Price"
+Unable to translate: "Your Money"
+Unable to translate: "Weight"
+Unable to translate: "Your Capacity"
+Unable to translate: "Search"
+Unable to translate: "Sell All"
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Unable to translate: "Name"
+Unable to translate: "Statement"
+Unable to translate: "Reason"
+Unable to translate: "Action"
+Unable to translate: "Comment"
+Loaded module 'game_ruleviolation'
+Unable to translate: "Balance"
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Offer Type"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Find"
+Unable to translate: "Buyer Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Total Price"
+Unable to translate: "Piece Price"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Name"
+Unable to translate: "Filters"
+Unable to translate: "Formula"
+Unable to translate: "Group"
+Unable to translate: "Type"
+Unable to translate: "Cooldown"
+Unable to translate: "Premium"
+Unable to translate: "Any"
+Unable to translate: "Sorcerer"
+Unable to translate: "Druid"
+Unable to translate: "Paladin"
+Unable to translate: "Knight"
+Unable to translate: "Group"
+Unable to translate: "Any"
+Unable to translate: "Premium"
+Unable to translate: "Any"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Unable to translate: "Hotkey delay: %sms"
+Unable to translate: "Turn delay: %sms"
+Unable to translate: "Music volume: %d"
+Unable to translate: "Account Status"
+Exiting application..
+== application started at Nov 15 2018 15:21:19
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: en
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Loaded module 'client_options'
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Loaded module 'game_market'
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Loaded module 'game_unjustifiedpoints'
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Could not send statistics: Host desconocido
+Exiting application..
+== application started at Dec 09 2018 16:40:06
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: en
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Loaded module 'client_options'
+Loaded module 'client_entergame'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+ERROR: failed to load UI from 'ui/marketoffers/itemoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: failed to load UI from 'ui/myoffers/currentoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: Unable to load module 'game_market': LUA ERROR:
+/game_market/market.lua:786: attempt to index global 'itemOffersPanel' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_market/market.lua:786: in function 'initInterface'
+	/game_market/market.lua:902: in function 'init'
+	/game_market/market.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:46: in main chunk
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Loaded module 'game_unjustifiedpoints'
+Loaded module 'addon_server'
+ERROR: protected lua call failed: LUA ERROR:
+/gamelib/protocollogin.lua:89: assertion failed!
+stack traceback:
+	[C]: at 0x0109c570
+	[C]: in function 'assert'
+	/gamelib/protocollogin.lua:89: in function 'connectCallback'
+	/gamelib/protocollogin.lua:144: in function </gamelib/protocollogin.lua:142>
+ERROR: protected lua call failed: LUA ERROR:
+/gamelib/protocollogin.lua:89: assertion failed!
+stack traceback:
+	[C]: at 0x0109c570
+	[C]: in function 'assert'
+	/gamelib/protocollogin.lua:89: in function 'connectCallback'
+	/gamelib/protocollogin.lua:144: in function </gamelib/protocollogin.lua:142>
+Exiting application..
+== application started at Dec 09 2018 16:41:32
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: en
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Loaded module 'client_options'
+Loaded module 'client_entergame'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+ERROR: failed to load UI from 'ui/marketoffers/itemoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: failed to load UI from 'ui/myoffers/currentoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: Unable to load module 'game_market': LUA ERROR:
+/game_market/market.lua:786: attempt to index global 'itemOffersPanel' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_market/market.lua:786: in function 'initInterface'
+	/game_market/market.lua:902: in function 'init'
+	/game_market/market.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:46: in main chunk
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Loaded module 'game_unjustifiedpoints'
+Loaded module 'addon_server'
+Exiting application..
+== application started at Dec 09 2018 16:42:03
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: en
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Loaded module 'client_options'
+Loaded module 'client_entergame'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+ERROR: failed to load UI from 'ui/marketoffers/itemoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: failed to load UI from 'ui/myoffers/currentoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: Unable to load module 'game_market': LUA ERROR:
+/game_market/market.lua:786: attempt to index global 'itemOffersPanel' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_market/market.lua:786: in function 'initInterface'
+	/game_market/market.lua:902: in function 'init'
+	/game_market/market.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:46: in main chunk
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Loaded module 'game_unjustifiedpoints'
+Loaded module 'addon_server'
+Exiting application..
+== application started at Dec 09 2018 16:44:25
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: en
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Loaded module 'client_options'
+Loaded module 'client_entergame'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+ERROR: failed to load UI from 'ui/marketoffers/itemoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: failed to load UI from 'ui/myoffers/currentoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: Unable to load module 'game_market': LUA ERROR:
+/game_market/market.lua:786: attempt to index global 'itemOffersPanel' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_market/market.lua:786: in function 'initInterface'
+	/game_market/market.lua:902: in function 'init'
+	/game_market/market.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:46: in main chunk
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Loaded module 'game_unjustifiedpoints'
+Loaded module 'addon_server'
+Exiting application..
+== application started at Dec 09 2018 16:45:14
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: en
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Loaded module 'client_options'
+Loaded module 'client_entergame'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+ERROR: failed to load UI from 'ui/marketoffers/itemoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: failed to load UI from 'ui/myoffers/currentoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: Unable to load module 'game_market': LUA ERROR:
+/game_market/market.lua:786: attempt to index global 'itemOffersPanel' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_market/market.lua:786: in function 'initInterface'
+	/game_market/market.lua:902: in function 'init'
+	/game_market/market.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:46: in main chunk
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Loaded module 'game_unjustifiedpoints'
+Loaded module 'addon_server'
+Exiting application..
+== application started at Dec 09 2018 16:54:54
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: en
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Loaded module 'client_options'
+Loaded module 'client_entergame'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+ERROR: failed to load UI from 'ui/marketoffers/itemoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: failed to load UI from 'ui/myoffers/currentoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: Unable to load module 'game_market': LUA ERROR:
+/game_market/market.lua:786: attempt to index global 'itemOffersPanel' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_market/market.lua:786: in function 'initInterface'
+	/game_market/market.lua:902: in function 'init'
+	/game_market/market.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:46: in main chunk
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Loaded module 'game_unjustifiedpoints'
+Loaded module 'addon_server'
+Exiting application..
+== application started at Dec 09 2018 16:55:31
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: en
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Loaded module 'client_options'
+Loaded module 'client_entergame'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+ERROR: failed to load UI from 'ui/marketoffers/itemoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: failed to load UI from 'ui/myoffers/currentoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: Unable to load module 'game_market': LUA ERROR:
+/game_market/market.lua:786: attempt to index global 'itemOffersPanel' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_market/market.lua:786: in function 'initInterface'
+	/game_market/market.lua:902: in function 'init'
+	/game_market/market.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:46: in main chunk
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Loaded module 'game_unjustifiedpoints'
+Loaded module 'addon_server'
+Exiting application..
+== application started at Dec 09 2018 16:59:12
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: en
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Loaded module 'client_options'
+Loaded module 'client_entergame'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+ERROR: failed to load UI from 'ui/marketoffers/itemoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: failed to load UI from 'ui/myoffers/currentoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: Unable to load module 'game_market': LUA ERROR:
+/game_market/market.lua:786: attempt to index global 'itemOffersPanel' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_market/market.lua:786: in function 'initInterface'
+	/game_market/market.lua:902: in function 'init'
+	/game_market/market.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:46: in main chunk
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Loaded module 'game_unjustifiedpoints'
+Loaded module 'addon_server'
+== application started at Dec 09 2018 17:00:23
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: en
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Loaded module 'client_options'
+Loaded module 'client_entergame'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+ERROR: failed to load UI from 'ui/marketoffers/itemoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: failed to load UI from 'ui/myoffers/currentoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: Unable to load module 'game_market': LUA ERROR:
+/game_market/market.lua:786: attempt to index global 'itemOffersPanel' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_market/market.lua:786: in function 'initInterface'
+	/game_market/market.lua:902: in function 'init'
+	/game_market/market.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:46: in main chunk
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Loaded module 'game_unjustifiedpoints'
+Loaded module 'addon_server'
+== application started at Dec 09 2018 17:05:33
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: en
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Loaded module 'client_options'
+Loaded module 'client_entergame'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+ERROR: failed to load UI from 'ui/marketoffers/itemoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: failed to load UI from 'ui/myoffers/currentoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: Unable to load module 'game_market': LUA ERROR:
+/game_market/market.lua:786: attempt to index global 'itemOffersPanel' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_market/market.lua:786: in function 'initInterface'
+	/game_market/market.lua:902: in function 'init'
+	/game_market/market.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:46: in main chunk
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Loaded module 'game_unjustifiedpoints'
+Loaded module 'addon_server'
+Exiting application..
+== application started at Dec 09 2018 17:43:12
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: en
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Loaded module 'client_options'
+Loaded module 'client_entergame'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+ERROR: failed to load UI from 'ui/marketoffers/itemoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: failed to load UI from 'ui/myoffers/currentoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: Unable to load module 'game_market': LUA ERROR:
+/game_market/market.lua:786: attempt to index global 'itemOffersPanel' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_market/market.lua:786: in function 'initInterface'
+	/game_market/market.lua:902: in function 'init'
+	/game_market/market.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:46: in main chunk
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Loaded module 'game_unjustifiedpoints'
+Loaded module 'addon_server'
+Exiting application..
+== application started at Dec 09 2018 17:45:51
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: en
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Loaded module 'client_options'
+Loaded module 'client_entergame'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+ERROR: failed to load UI from 'ui/marketoffers/itemoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: failed to load UI from 'ui/myoffers/currentoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: Unable to load module 'game_market': LUA ERROR:
+/game_market/market.lua:786: attempt to index global 'itemOffersPanel' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_market/market.lua:786: in function 'initInterface'
+	/game_market/market.lua:902: in function 'init'
+	/game_market/market.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:46: in main chunk
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Loaded module 'game_unjustifiedpoints'
+Loaded module 'addon_server'
+Exiting application..
+== application started at Dec 09 2018 17:48:16
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: en
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Loaded module 'client_options'
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame - copia 2/entergame.otui:95: [@onSetup]:2: attempt to call field 'getSupportedProtocols' (a nil value)
+stack traceback:
+	[C]: in function 'getSupportedProtocols'
+	/client_entergame - copia 2/entergame.otui:95: [@onSetup]:2: in function </client_entergame - copia 2/entergame.otui:95: [@onSetup]:1>
+	[C]: in function 'displayUI'
+	/client_entergame - copia 2/entergame.lua:105: in function 'init'
+	/client_entergame - copia 2/entergame.otmod:10:[@onLoad]:3: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:42: in main chunk
+ERROR: Unable to load module 'client_entergame': LUA ERROR:
+/client_entergame - copia 2/entergame.lua:132: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame - copia 2/entergame.lua:132: in function 'init'
+	/client_entergame - copia 2/entergame.otmod:10:[@onLoad]:3: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:42: in main chunk
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame - copia 2/entergame.otui:95: [@onSetup]:2: attempt to call field 'getSupportedProtocols' (a nil value)
+stack traceback:
+	[C]: in function 'getSupportedProtocols'
+	/client_entergame - copia 2/entergame.otui:95: [@onSetup]:2: in function </client_entergame - copia 2/entergame.otui:95: [@onSetup]:1>
+	[C]: in function 'displayUI'
+	/client_entergame - copia 2/entergame.lua:105: in function 'init'
+	/client_entergame - copia 2/entergame.otmod:10:[@onLoad]:3: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:42: in main chunk
+ERROR: Unable to load module 'client_entergame': LUA ERROR:
+/client_entergame - copia 2/entergame.lua:132: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame - copia 2/entergame.lua:132: in function 'init'
+	/client_entergame - copia 2/entergame.otmod:10:[@onLoad]:3: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:42: in main chunk
+ERROR: Unable to load module 'client_serverlist': dependency 'client_entergame' has failed to load
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+ERROR: failed to load UI from 'ui/marketoffers/itemoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: failed to load UI from 'ui/myoffers/currentoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: Unable to load module 'game_market': LUA ERROR:
+/game_market/market.lua:786: attempt to index global 'itemOffersPanel' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_market/market.lua:786: in function 'initInterface'
+	/game_market/market.lua:902: in function 'init'
+	/game_market/market.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:46: in main chunk
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Loaded module 'game_unjustifiedpoints'
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame - copia 2/entergame.otui:95: [@onSetup]:2: attempt to call field 'getSupportedProtocols' (a nil value)
+stack traceback:
+	[C]: in function 'getSupportedProtocols'
+	/client_entergame - copia 2/entergame.otui:95: [@onSetup]:2: in function </client_entergame - copia 2/entergame.otui:95: [@onSetup]:1>
+	[C]: in function 'displayUI'
+	/client_entergame - copia 2/entergame.lua:105: in function 'init'
+	/client_entergame - copia 2/entergame.otmod:10:[@onLoad]:3: in main chunk
+	[C]: in function 'autoLoadModules'
+	/init.lua:49: in main chunk
+ERROR: Unable to load module 'client_entergame': LUA ERROR:
+/client_entergame - copia 2/entergame.lua:132: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame - copia 2/entergame.lua:132: in function 'init'
+	/client_entergame - copia 2/entergame.otmod:10:[@onLoad]:3: in main chunk
+	[C]: in function 'autoLoadModules'
+	/init.lua:49: in main chunk
+ERROR: Unable to load module 'addon_server': dependency 'client_entergame' has failed to load
+ERROR: /client_entergame - copia 2/entergame.lua:299: attempt to index a nil value
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame - copia 2/entergame.lua:299: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame - copia 2/entergame.lua:299: in function 'doLogin'
+	/client_entergame - copia 2/entergame.otui:140: [@onClick]:2: in function </client_entergame - copia 2/entergame.otui:140: [@onClick]:1>
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame - copia 2/entergame.lua:299: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame - copia 2/entergame.lua:299: in function 'doLogin'
+	/client_entergame - copia 2/entergame.otui:140: [@onClick]:2: in function </client_entergame - copia 2/entergame.otui:140: [@onClick]:1>
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame - copia 2/entergame.lua:299: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame - copia 2/entergame.lua:299: in function 'doLogin'
+	/client_entergame - copia 2/entergame.otui:140: [@onClick]:2: in function </client_entergame - copia 2/entergame.otui:140: [@onClick]:1>
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame - copia 2/entergame.lua:299: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame - copia 2/entergame.lua:299: in function 'doLogin'
+	/client_entergame - copia 2/entergame.otui:140: [@onClick]:2: in function </client_entergame - copia 2/entergame.otui:140: [@onClick]:1>
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame - copia 2/entergame.lua:299: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame - copia 2/entergame.lua:299: in function 'doLogin'
+	/client_entergame - copia 2/entergame.otui:140: [@onClick]:2: in function </client_entergame - copia 2/entergame.otui:140: [@onClick]:1>
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame - copia 2/entergame.lua:299: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame - copia 2/entergame.lua:299: in function 'doLogin'
+	/client_entergame - copia 2/entergame.otui:140: [@onClick]:2: in function </client_entergame - copia 2/entergame.otui:140: [@onClick]:1>
+Exiting application..
+== application started at Dec 09 2018 17:49:20
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: en
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Loaded module 'client_options'
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame - copia 2/entergame.otui:95: [@onSetup]:2: attempt to call field 'getSupportedProtocols' (a nil value)
+stack traceback:
+	[C]: in function 'getSupportedProtocols'
+	/client_entergame - copia 2/entergame.otui:95: [@onSetup]:2: in function </client_entergame - copia 2/entergame.otui:95: [@onSetup]:1>
+	[C]: in function 'displayUI'
+	/client_entergame - copia 2/entergame.lua:105: in function 'init'
+	/client_entergame - copia 2/entergame.otmod:10:[@onLoad]:3: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:42: in main chunk
+ERROR: Unable to load module 'client_entergame': LUA ERROR:
+/client_entergame - copia 2/entergame.lua:132: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame - copia 2/entergame.lua:132: in function 'init'
+	/client_entergame - copia 2/entergame.otmod:10:[@onLoad]:3: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:42: in main chunk
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame - copia 2/entergame.otui:95: [@onSetup]:2: attempt to call field 'getSupportedProtocols' (a nil value)
+stack traceback:
+	[C]: in function 'getSupportedProtocols'
+	/client_entergame - copia 2/entergame.otui:95: [@onSetup]:2: in function </client_entergame - copia 2/entergame.otui:95: [@onSetup]:1>
+	[C]: in function 'displayUI'
+	/client_entergame - copia 2/entergame.lua:105: in function 'init'
+	/client_entergame - copia 2/entergame.otmod:10:[@onLoad]:3: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:42: in main chunk
+ERROR: Unable to load module 'client_entergame': LUA ERROR:
+/client_entergame - copia 2/entergame.lua:132: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame - copia 2/entergame.lua:132: in function 'init'
+	/client_entergame - copia 2/entergame.otmod:10:[@onLoad]:3: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:42: in main chunk
+ERROR: Unable to load module 'client_serverlist': dependency 'client_entergame' has failed to load
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+ERROR: failed to load UI from 'ui/marketoffers/itemoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: failed to load UI from 'ui/myoffers/currentoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: Unable to load module 'game_market': LUA ERROR:
+/game_market/market.lua:786: attempt to index global 'itemOffersPanel' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_market/market.lua:786: in function 'initInterface'
+	/game_market/market.lua:902: in function 'init'
+	/game_market/market.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:46: in main chunk
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Loaded module 'game_unjustifiedpoints'
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame - copia 2/entergame.otui:95: [@onSetup]:2: attempt to call field 'getSupportedProtocols' (a nil value)
+stack traceback:
+	[C]: in function 'getSupportedProtocols'
+	/client_entergame - copia 2/entergame.otui:95: [@onSetup]:2: in function </client_entergame - copia 2/entergame.otui:95: [@onSetup]:1>
+	[C]: in function 'displayUI'
+	/client_entergame - copia 2/entergame.lua:105: in function 'init'
+	/client_entergame - copia 2/entergame.otmod:10:[@onLoad]:3: in main chunk
+	[C]: in function 'autoLoadModules'
+	/init.lua:49: in main chunk
+ERROR: Unable to load module 'client_entergame': LUA ERROR:
+/client_entergame - copia 2/entergame.lua:132: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame - copia 2/entergame.lua:132: in function 'init'
+	/client_entergame - copia 2/entergame.otmod:10:[@onLoad]:3: in main chunk
+	[C]: in function 'autoLoadModules'
+	/init.lua:49: in main chunk
+ERROR: Unable to load module 'addon_server': dependency 'client_entergame' has failed to load
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame - copia 2/entergame.otui:95: [@onSetup]:2: attempt to call field 'getSupportedProtocols' (a nil value)
+stack traceback:
+	[C]: in function 'getSupportedProtocols'
+	/client_entergame - copia 2/entergame.otui:95: [@onSetup]:2: in function </client_entergame - copia 2/entergame.otui:95: [@onSetup]:1>
+	[C]: in function 'displayUI'
+	/client_entergame - copia 2/entergame.lua:105: in function 'init'
+	/client_entergame - copia 2/entergame.otmod:10:[@onLoad]:3: in main chunk
+	[C]: in function 'autoLoadModules'
+	/init.lua:49: in main chunk
+ERROR: Unable to load module 'client_entergame': LUA ERROR:
+/client_entergame - copia 2/entergame.lua:132: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame - copia 2/entergame.lua:132: in function 'init'
+	/client_entergame - copia 2/entergame.otmod:10:[@onLoad]:3: in main chunk
+	[C]: in function 'autoLoadModules'
+	/init.lua:49: in main chunk
+ERROR: Unable to load module 'addon_server': dependency 'client_entergame' has failed to load
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame - copia 2/entergame.lua:299: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame - copia 2/entergame.lua:299: in function 'doLogin'
+	/client_entergame - copia 2/entergame.otui:140: [@onClick]:2: in function </client_entergame - copia 2/entergame.otui:140: [@onClick]:1>
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame - copia 2/entergame.lua:299: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame - copia 2/entergame.lua:299: in function 'doLogin'
+	/client_entergame - copia 2/entergame.otui:140: [@onClick]:2: in function </client_entergame - copia 2/entergame.otui:140: [@onClick]:1>
+Exiting application..
+== application started at Dec 09 2018 17:50:50
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: en
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Loaded module 'client_options'
+Loaded module 'client_entergame'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+ERROR: failed to load UI from 'ui/marketoffers/itemoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: failed to load UI from 'ui/myoffers/currentoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: Unable to load module 'game_market': LUA ERROR:
+/game_market/market.lua:786: attempt to index global 'itemOffersPanel' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_market/market.lua:786: in function 'initInterface'
+	/game_market/market.lua:902: in function 'init'
+	/game_market/market.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:46: in main chunk
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Loaded module 'game_unjustifiedpoints'
+Loaded module 'addon_server'
+Exiting application..
+== application started at Dec 09 2018 17:51:40
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: en
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Loaded module 'client_options'
+Loaded module 'client_entergame'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+ERROR: failed to load UI from 'ui/marketoffers/itemoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: failed to load UI from 'ui/myoffers/currentoffers.otui': base style 'SortableTableHeaderColumn', is not defined
+ERROR: Unable to load module 'game_market': LUA ERROR:
+/game_market/market.lua:786: attempt to index global 'itemOffersPanel' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_market/market.lua:786: in function 'initInterface'
+	/game_market/market.lua:902: in function 'init'
+	/game_market/market.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:46: in main chunk
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Loaded module 'game_unjustifiedpoints'
+Loaded module 'addon_server'
+ERROR: protected lua call failed: LUA ERROR:
+/game_market/market.lua:922: attempt to index global 'categoryList' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_market/market.lua:922: in function </game_market/market.lua:920>
+Exiting application..
+== application started at Dec 09 2018 17:58:11
+OTClient 0.6.3 rev 0 (devel) built on Nov 14 2018 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+["Total Price:"] = "",
+Locale 'pt' is missing 19 translations.
+["Account Status:"] = "",
+["Action:"] = "",
+["Amount:"] = "",
+["Balance:"] = "",
+["Comment:"] = "",
+["Don't stretch/shrink Game Window"] = "",
+["Find:"] = "",
+["Name:"] = "",
+["Offer Type:"] = "",
+["Piece Price:"] = "",
+["Position:"] = "",
+["Price:"] = "",
+["Reason:"] = "",
+["Search:"] = "",
+["Statement:"] = "",
+["Total Price:"] = "",
+["Weight:"] = "",
+["Your Capacity:"] = "",
+["Your Money:"] = "",
+Using configured locale: en
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Loaded module 'client_options'
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Loaded module 'game_market'
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+ERROR: Failed to read dat '/things/772/Tibia.dat': unable to open file '/things/772/Tibia.dat': El sistema no puede encontrar la ruta especificada.'
+ERROR: Failed to load sprites from '/things/772/Tibia.spr': unable to open file '/things/772/Tibia.spr': El sistema no puede encontrar la ruta especificada.
+Exiting application..
